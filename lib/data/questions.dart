@@ -1,7 +1,7 @@
 import 'package:quizzer/model/quiz_question.dart';
 
 const questions = [
-  QuizQuestion("whats your name", ["tony", "jery", "ezikiel", "john"]),
+  QuizQuestion("whats your name", ["tony", "ezikiel", "john"]),
   QuizQuestion('What are the main building blocks of Flutter UIs?', [
     'Widgets',
     'Components',
